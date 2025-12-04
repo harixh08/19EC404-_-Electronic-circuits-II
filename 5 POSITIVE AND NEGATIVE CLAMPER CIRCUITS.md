@@ -11,14 +11,19 @@
 <img width="454" height="463" alt="image" src="https://github.com/user-attachments/assets/44f16021-01f2-4a20-8255-fd735ad940aa" />
 <img width="493" height="234" alt="image" src="https://github.com/user-attachments/assets/e34165d8-5303-47b8-84ea-4b7fde538cfe" />
 
+![WhatsApp Image 2025-12-04 at 6 37 36 PM](https://github.com/user-attachments/assets/1d82cdba-edee-489e-bf99-ae6c8e1c024d)
 
 # Tabulation
+![WhatsApp Image 2025-12-04 at 6 37 47 PM](https://github.com/user-attachments/assets/afc23c0f-ca1a-441e-86ee-fc6fac64c3d3)
 
 
 # Graph
+![WhatsApp Image 2025-12-04 at 6 37 54 PM](https://github.com/user-attachments/assets/a79422bb-0119-4f23-a6ef-62d6e5875a3d)
 
+![WhatsApp Image 2025-12-04 at 6 38 03 PM](https://github.com/user-attachments/assets/5a8ea668-b78c-414c-b142-43dfd17608fa)
 
 # Sample images 
 
 
 # Result
+positive and negative clamper was executed
