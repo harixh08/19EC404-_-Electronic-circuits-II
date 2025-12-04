@@ -11,13 +11,14 @@
 # Circuit Diagram 
 <img width="486" height="409" alt="image" src="https://github.com/user-attachments/assets/70da1bde-cdfe-4270-bd1d-c82fbc1bffd3" />
 
+![WhatsApp Image 2025-12-04 at 6 31 15 PM](https://github.com/user-attachments/assets/78c24e2c-b7cc-469f-826d-9158e4b0cbc5)
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+![WhatsApp Image 2025-12-04 at 6 31 34 PM](https://github.com/user-attachments/assets/0567193b-0bdf-4e2e-91a6-284e0c9e3283)
+
 
 # Graph
+![WhatsApp Image 2025-12-04 at 6 31 50 PM](https://github.com/user-attachments/assets/4abc6ba1-04bf-4d9b-945a-43a6511cceb4)
 
 
 
