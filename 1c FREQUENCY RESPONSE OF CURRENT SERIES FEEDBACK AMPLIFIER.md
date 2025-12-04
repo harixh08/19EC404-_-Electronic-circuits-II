@@ -10,14 +10,18 @@
 # Without Feedback:
 <img width="540" height="428" alt="image" src="https://github.com/user-attachments/assets/aaa574ca-68cc-4744-b0af-cdc45619c37c" />
 
+![WhatsApp Image 2025-12-04 at 6 30 31 PM](https://github.com/user-attachments/assets/8a6994f7-ec36-4e65-8815-0e17b6c07b6e)
+
 # With Feedback:
 <img width="533" height="283" alt="image" src="https://github.com/user-attachments/assets/d423c0cc-853d-4fb0-8316-c17b10cf49c8" />
 
 
 # Tabulation
+![WhatsApp Image 2025-12-04 at 6 30 36 PM](https://github.com/user-attachments/assets/f351849c-31b3-4c40-8f42-4c87f8251281)
 
 
 # Graph
+![WhatsApp Image 2025-12-04 at 6 30 42 PM](https://github.com/user-attachments/assets/4e3ef008-3890-4780-815d-ee5e00ff324f)
 
 
 # Sample images 
